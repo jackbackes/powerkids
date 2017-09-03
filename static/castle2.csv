@@ -1,0 +1,13 @@
+CastleEdgeRight,0,1,1
+CastleEdgeLeft,0,3,3
+CastleCross,4,2,2
+CastleOverhangLeft,1,1,1
+CastleOverhangRight,1,3,3
+CastleOverhang,1,2,2
+CastleWindow,6,1,1
+CastleMiddle,5,1,1
+CastleStairway,3,6,6
+CastleArchBottom,0,4,7
+CastleArchMiddle,1,4,7
+CastleArchTop,2,5,6
+CastleEmpty,0,0,0

@@ -1,0 +1,8 @@
+North,0,0,0
+West,1,0,0
+South,2,0,0
+East,3,0,0
+WalkNorth,8,0,8
+WalkEast,9,0,8
+WalkSouth,10,0,8
+WalkWest,11,0,8
